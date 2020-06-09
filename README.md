@@ -1,4 +1,4 @@
-# covid19peru
+# Bubbles covid19 - Perú
 Visualization of the growth of infected by covid-19 (Python with maps )
 
 <!--![Demo](perujunio.gif|width=600)-->
