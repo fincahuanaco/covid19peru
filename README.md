@@ -5,7 +5,7 @@ Visualization of the growth of infected by covid-19 (Python with maps )
 <img src="perujunio.gif" alt="Demo" width="600px"/>
 
 
-#How to execute
+# How to execute
 You need to get positivos_covidutf.csv from https://covid19.minsa.gob.pe/sala_situacional.asp
 
 $python3 maketimeserie.py > peru24series.csv
